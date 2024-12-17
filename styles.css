@@ -1,0 +1,28 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #5f7fd6;
+    color: #148053;
+    margin: 20px;
+  }
+
+  div{
+    border: solid 2px black;
+  }
+  
+
+  #Principal{
+    border-radius: 5%;
+    background-color: aquamarine;
+    width: 65vw;
+    margin: auto;
+    
+  }
+
+  .Seccion1{
+    text-align: center;
+    list-style: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: larger;
+    background-color: aliceblue;
+
+  }
